@@ -2,3 +2,10 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+Task C
+Set i =integer (2;50)
+
+While i <= 50
+print (i)
+i = i + 2;
+else print (You are finished)

@@ -2,3 +2,13 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+Task A
+Set randomNumber <=10 && >=1;
+Repeat loop below 3 times
+While enteredGuess != randomNumber;
+enteredGuess = input (Enter Guess number);
+if enteredGuess < randomNumber
+than print (Guess higher)
+if enteredGuess > randomNumber;
+than print (Guess lower)
+else print (You had 3 attempts and you failed)

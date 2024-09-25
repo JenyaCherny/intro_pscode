@@ -2,3 +2,9 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+Task B
+Set location
+While walkedDistance != location
+move: array of  sides (North, South, West, East)
+walkedDistance = walkedDistance + move
+else print (Congratulations! You reached your destination)
